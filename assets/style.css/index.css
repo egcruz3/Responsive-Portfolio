@@ -1,0 +1,89 @@
+#topbox{
+	background-color: #ffffff;
+	color: grey;
+	text-indent: 900px;
+	letter-spacing: 1px;
+	padding: 11px;
+	width: 96%;
+	position: fixed;
+}
+
+header{
+	background-color: teal;
+	border: 1px solid #cccccc;
+	color: #ffffff;
+	font-family: "Georgia", "Times", 
+	"Times New Roman", "serif";
+	width: 20%;
+	margin-left: 125px;
+	text-align: center;
+	z-index: 1;
+	position: relative;
+}
+
+body{
+	clear: both;
+	background-image: url(../images/background.png)
+}
+
+#container{
+	font-family: 'Arial', 'Helvetica Neue',
+	 "Helvetica", "sans-serif";
+}
+
+section{
+	float: left;
+	padding: 20px;
+}
+
+#mainbio{
+	background-color: #ffffff;
+	border: 2px solid #dddddd;
+	width: 650px;
+	height: 480px;
+	margin: 40px 40px 40px 125px; 
+}
+
+#Contactinfo{
+	background-color: #ffffff;
+	border: 2px solid #dddddd;
+	width: 270px;
+	height: 200px;
+	margin: 40px 40px 40px;
+}
+
+h2{
+   color: teal;
+   text-align: center;
+   padding-bottom: 20px;
+}
+
+#photo{
+	height: 200px;
+	width: 200px;
+	float: left;
+	padding: 20px;
+}
+
+
+p{
+	color: grey;
+	text-align: center;
+	font-size: 18px;
+}
+
+footer{
+	clear: both;
+	background-color: #666666;
+	color: #efeee7;
+	border-top: 8px solid teal;
+	text-align: center;
+	padding: 20px;
+	overflow: auto;
+}
+
+#link{
+	height: 60px;
+	width: 60px;
+	padding-right: 10px;
+}
