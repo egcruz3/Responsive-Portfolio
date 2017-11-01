@@ -87,3 +87,18 @@ footer{
 	width: 60px;
 	padding-right: 10px;
 }
+
+/*width of smart phone*/
+@media screen and (max-width:640px) {
+	div
+};
+
+/*Width of tablet*/
+@media screen and (max-width:768px) {
+	
+};
+
+/*Width of computer screen*/
+@media screen and (max-width:980px) {
+	
+};
